@@ -97,6 +97,7 @@ export default function Team() {
             <p>Michael Wu</p>
             <p>Tunan Zhuang</p>
             <p>Veer Ruparel</p>
+            <p>Mary Yu</p>
           </div>
 
           {/* Backend */}

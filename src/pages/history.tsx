@@ -59,7 +59,7 @@ export default function History() {
           />
         </div>
 
-        {/* Team Names */}
+        {/* Content in history page */}
 
         <div className="flex flex-row  justify-around gap-10 pb-10">
           {/* main leads */}
@@ -96,7 +96,7 @@ export default function History() {
           {/* Backend */}
 
           <div className="py-3 text-center bg-gray-100 w-56 shadow-lg border-dashed border-2">
-            <p className="font-bold">Sports teams historical records</p>
+            <p className="font-bold">Sports historical records</p>
             <p>Well rounded titans</p>
             <br></br>
             <p>Proud of the past</p>
